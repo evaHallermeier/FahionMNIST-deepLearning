@@ -4,7 +4,20 @@ insert here linkof the 2 notebooks
 ## Colab notebook sructure:
 
 ### Notebook 1 for part 1 : work only with numpy
-insert here table of content
+      Import Libraries
+      Load Dataset
+      Data preprocessing (5%)
+            Feature scaling
+            Select two classes
+            Split the data into Train set and Test set
+      Activation functions (5%)
+      Loss function (10%)
+      NN Hyper Parameters
+            Weight and Bias Initialization
+            Training (15%)
+      Results of part 1
+      Loss Visualization
+      Test your performance (15%)
 
 ### Notenook 2 for art 2 : work with Keras and matplotlib for visualisations
       Part 2 : Neural Network with Tensorflow Keras (50%)
