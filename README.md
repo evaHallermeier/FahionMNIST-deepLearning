@@ -2,6 +2,8 @@
 This project is the creation of Deep Learning model using different levels of ML libraries on the dataset FASHION MNIST.
 
 The project is separated in two notebooks:
+
+
 Part 1 using Numpy- https://colab.research.google.com/drive/1ViFafM33HMSyTdyJEeAWvTYqqlYxeuEA
 
 Part 2 using Keras- https://colab.research.google.com/drive/1klcPGo0a67zXyeG0aCpjFScQl2moCAwa
