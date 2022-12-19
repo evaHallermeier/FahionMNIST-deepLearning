@@ -29,7 +29,7 @@ Part 2 using Keras- https://colab.research.google.com/drive/1klcPGo0a67zXyeG0aCp
             Test your performance (15%)
 
 
-### Notenook 2 for part 2 : work with Keras and matplotlib for visualisations
+### Notenook 2 for part 2 : work with Keras and matplotlib
       Part 2 : Neural Network with Tensorflow Keras (50%)
       
        - Step 0 Utiles : import libraries
