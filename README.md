@@ -1,6 +1,12 @@
 # Deep learning Project - Fashion MNIST
-This project isthe creation of deep learning model by different technologies on the dtaset FASHION MNIST.
-insert here linkof the 2 notebooks
+This project is the creation of Deep Learning model using different levels of ML libraries on the dataset FASHION MNIST.
+
+The project is separated in two notebooks:
+Part 1 using Numpy- https://colab.research.google.com/drive/1ViFafM33HMSyTdyJEeAWvTYqqlYxeuEA?
+usp=sharing
+Part 2 using Keras- https://colab.research.google.com/drive/1klcPGo0a67zXyeG0aCpjFScQl2moCAwa?
+usp=sharing
+
 ## Colab notebooks structure:
 
 ### Notebook 1 for part 1 : work only with Numpy
