@@ -33,7 +33,7 @@ Part 2 using Keras- https://colab.research.google.com/drive/1klcPGo0a67zXyeG0aCp
       Part 2 : Neural Network with Tensorflow Keras (50%)
       
        - Step 0 Utiles : import libraries
-       -  Step 1 - Data preprocessing :load dataset, define labels, select 2 classes, visualize data images, feature scaling
+       - Step 1 - Data preprocessing :load dataset, define labels, select 2 classes, visualize data images, feature scaling
        - Step 2 - Basic model architecture and training : architecture, training, save model, result and evaluation (visualization of loss and accuracy), running                        test, confusion matrix for test (around 96% accuracy)
        - Step 3- Experiment 1:  architecture, training, save model, result and evaluation (visualization of loss and accuracy), running test, confusion matrix for test                    (around 98% accuracy)
        - Step 4 - Experiment 2: architecture, training, save model, result and evaluation (visualization of loss and accuracy), running test, confusion matrix for test                    (around 99% accuracy)
