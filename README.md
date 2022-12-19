@@ -3,21 +3,23 @@ This project isthe creation of deep learning model by different technologies on 
 insert here linkof the 2 notebooks
 ## Colab notebook sructure:
 
-### Notebook 1 for part 1 : work only with numpy
+### Notebook 1 for part 1 : work only with Numpy
       Import Libraries
       Load Dataset
       Data preprocessing (5%)
             Feature scaling
-            Select two classes
+            Select two classes : label 0 and 1
             Split the data into Train set and Test set
-      Activation functions (5%)
+            Visualize data
+      Activation functions (5%) - sigmoid function
       Loss function (10%)
       NN Hyper Parameters
-            Weight and Bias Initialization
-            Training (15%)
+      Weight and Bias Initialization
+      Training (15%)
       Results of part 1
-      Loss Visualization
-      Test your performance (15%)
+            Loss Visualization
+            Test your performance (15%)
+
 
 ### Notenook 2 for פart 2 : work with Keras and matplotlib for visualisations
       Part 2 : Neural Network with Tensorflow Keras (50%)
