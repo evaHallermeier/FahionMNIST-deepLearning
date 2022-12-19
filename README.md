@@ -4,9 +4,9 @@ This project is the creation of Deep Learning model using different levels of ML
 The project is separated in two notebooks:
 
 
-Part 1 using Numpy- https://colab.research.google.com/drive/1ViFafM33HMSyTdyJEeAWvTYqqlYxeuEA
+Part 1 using Numpy- https://colab.research.google.com/drive/1ViFafM33HMSyTdyJEeAWvTYqqlYxeuEA?usp=sharing
 
-Part 2 using Keras- https://colab.research.google.com/drive/1klcPGo0a67zXyeG0aCpjFScQl2moCAwa
+Part 2 using Keras- https://colab.research.google.com/drive/1klcPGo0a67zXyeG0aCpjFScQl2moCAwa?usp=sharing
 
 
 ## Colab notebooks structure:
