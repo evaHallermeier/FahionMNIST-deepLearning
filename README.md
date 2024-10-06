@@ -1,12 +1,8 @@
 # Deep learning Project - Fashion MNIST
 This project is the creation of Deep Learning model using different levels of ML libraries on the dataset FASHION MNIST.
 
-The project is separated in two notebooks:
 
-
-Part 1 using Numpy- https://colab.research.google.com/drive/1ViFafM33HMSyTdyJEeAWvTYqqlYxeuEA?usp=sharing
-
-Part 2 using Keras- https://colab.research.google.com/drive/1klcPGo0a67zXyeG0aCpjFScQl2moCAwa?usp=sharing
+Notebook using Numpy- https://colab.research.google.com/drive/1ViFafM33HMSyTdyJEeAWvTYqqlYxeuEA?usp=sharing
 
 
 ## Colab notebooks structure:
@@ -30,20 +26,9 @@ Table of content of the notebook:
             Loss Visualization
             Test your performance (15%)
 
-
-### Notenook 2 for part 2 : work with Tensorflow Keras
-Table of content of the notebook:
-      
-       - Step 0 Utiles : import libraries
-       - Step 1 - Data preprocessing :load dataset, define labels, select 2 classes, visualize data images, feature scaling
-       - Step 2 - Basic model architecture and training : architecture, training, save model, result and evaluation (visualization of loss and accuracy), running                        test, confusion matrix for test (around 96% accuracy)
-       - Step 3 - Experiment 1:  architecture, training, save model, result and evaluation (visualization of loss and accuracy), running test, confusion matrix for test                    (around 98% accuracy)
-       - Step 4 - Experiment 2: architecture, training, save model, result and evaluation (visualization of loss and accuracy), running test, confusion matrix for test                    (around 99% accuracy)
-       - Test environement with the final model: Load trained model, pick a random image, predicting the result from the model
       
  ## Installation:
  Open the notebook from the link above you want to run.
  The notebook 1 has to be runned entirely.
- The notebook 2 : you can run only from the section called "Test environment" which will load the best model and pick a random image and run it and predict the type of clothe.
 
 
